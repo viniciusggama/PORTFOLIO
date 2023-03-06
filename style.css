@@ -90,3 +90,28 @@ button:hover{
     
 }
 
+#projetos{
+    margin-top: 10px;
+    background-color: rgb(64, 139, 224);
+    height: 150px;
+    border-radius: 5px 5px 50px 50px;
+    display: none;
+    border: 1px solid rgb(0, 0, 0);
+}
+
+h3{
+    
+    text-align: center;
+    color: antiquewhite;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.img_projeto{
+    width: 35px;
+}
+
+a{
+    text-decoration: none;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+}
