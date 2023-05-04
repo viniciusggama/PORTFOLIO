@@ -48,14 +48,14 @@ a:hover{
     color: black;  
 }
 
-#conteudo{
+.conteudoL1{
    display: flex;
    flex-direction: row;
    justify-content:space-around;
 }
 
 @media screen and (max-width:768px) {
-    #conteudo{
+    .conteudoL1{
         flex-direction:column;
         align-items: center;
         gap:20px;
